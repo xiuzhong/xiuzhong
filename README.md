@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xiuzhong
-- 👀 I’m interested in software architecture (mono -> microservice migration), backend stacks and CI/CD
-- 🌱 I’m currently learning Node.js and Hotwire
+- 👋 Hi, I’m Leo
+- 👀 I’m interested in software architecture (mono -> microservice migration), full stack, application security
 
 <!---
 xiuzhong/xiuzhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
